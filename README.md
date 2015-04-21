@@ -1,3 +1,6 @@
+Deprecated
+Use RecyclerView from android.support.v7
+
 expandingList
 =============
 
